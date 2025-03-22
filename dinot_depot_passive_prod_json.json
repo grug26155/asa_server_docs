@@ -103,6 +103,17 @@
 
 ]
 }
+,
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+],
+"alternateItems": [
+
+]
+}
 
 ]},
 {"dinoType": "Blueprint'/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP'", 
@@ -318,6 +329,56 @@
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 120.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+],
+"alternateItems": [
+
+]
+}
+
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'", 
+"produces":[
+{
+"intervalSeconds": 60.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'"
+],
+"alternateItems": [
+
+]
+}
+,
+{
+"intervalSeconds": 120.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
 ],
 "alternateItems": [
 
